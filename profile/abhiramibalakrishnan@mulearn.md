@@ -108,9 +108,7 @@
 
 #### Profile Card:
 
-```html
 <img
     src="https://mulearn.org/embed/rank/abhiramibalakrishnan@mulearn"
     width="400px">
 </img>
-```
